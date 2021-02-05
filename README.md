@@ -1,2 +1,2 @@
 # Google-Clone
-copia del buscador de google chrome, totalmente responsive
+copia del front-end del buscador de google chrome, totalmente responsive.
